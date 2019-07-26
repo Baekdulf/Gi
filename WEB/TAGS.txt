@@ -1,0 +1,13 @@
+TAGS.
+
+<strong> </strong> : 진하게
+<u> </u> : Underline
+<p> : Paragraph
+<br> : 줄바꿈 
+<li> : list
+<ul> : li 의 부모 태그 ( Undordered List )
+<ol> : ui + 자동으로 넘버링 ( Ordered List )
+<a> : anchor. 링크 걸어줌 (a href = "")
+        h = hypertext, ref = reference
+        target = "_blank"
+<img src = "">
